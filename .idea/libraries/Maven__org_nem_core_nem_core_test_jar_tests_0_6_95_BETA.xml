@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.nem.core:nem-core:test-jar:tests:0.6.95-BETA">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nem/core/nem-core/0.6.95-BETA/nem-core-0.6.95-BETA-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nem/core/nem-core/0.6.95-BETA/nem-core-0.6.95-BETA-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nem/core/nem-core/0.6.95-BETA/nem-core-0.6.95-BETA-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
