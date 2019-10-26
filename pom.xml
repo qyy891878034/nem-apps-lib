@@ -77,13 +77,7 @@
 			<version>4.5.3</version>
 		</dependency>
 
-		<dependency>
-			<groupId>org.nem.core</groupId>
-			<artifactId>nem-core</artifactId>
-			<version>0.6.95-BETA</version>
-			<type>test-jar</type>
-			<scope>test</scope>
-		</dependency>
+	
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
